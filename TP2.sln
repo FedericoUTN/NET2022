@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business.Entities", "..\..\..\..\..\Business.Entities\Business.Entities.csproj", "{51B16703-40A4-4E90-88B3-AE6DDE27519B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business.Entities", "Business.Entities\Business.Entities.csproj", "{51B16703-40A4-4E90-88B3-AE6DDE27519B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI.Web", "..\..\..\..\..\UI.Web\UI.Web.csproj", "{4ADD9BDA-0733-4A53-AA4C-6414E9FE4EBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI.Web", "UI.Web\UI.Web.csproj", "{4ADD9BDA-0733-4A53-AA4C-6414E9FE4EBE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Util", "..\..\..\..\..\Util\Util.csproj", "{0A749A8B-1A83-405D-8C90-5A690D824C39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Util", "Util\Util.csproj", "{0A749A8B-1A83-405D-8C90-5A690D824C39}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.Desktop", "UI.Desktop\UI.Desktop.csproj", "{455F7209-8D4C-4181-BE7A-CF36E1CEAE6A}"
 EndProject
